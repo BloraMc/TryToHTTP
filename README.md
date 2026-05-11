@@ -4,6 +4,8 @@
 
 The main reason we made **TryToHTTP** is to help you stay connected to the **TryToChill Network**. It also helps you get around some network problems.
 
+NOTE : Currently, this only works for TryToChill on Java Edition, but i will add Bedrock support to it soon ...
+
 ### Features
 
 * **Stay Connected:** **TryToHTTP** gives you another way to connect when the usual addresses are not working.
